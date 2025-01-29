@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Welocom to pro-shop</h1>
+      <p>Welocom to pro-shop</h1>
     </div>
   );
 }
